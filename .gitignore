@@ -37,4 +37,3 @@ cover.out
 go.sum
 .golangci.yml
 /config
-output
