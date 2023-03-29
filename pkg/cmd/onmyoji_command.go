@@ -13,7 +13,7 @@ var onmyojiCmd = &cobra.Command{
 	Use:     "sync",
 	Aliases: []string{"s"},
 	Short:   "A simple tool for onmyoji",
-	Long:    `Sync onmyoji pic from yys`,
+	Long:    `A simple tool for onmyoji, you can get the source code in https://github.com/ymkNK/otool`,
 	Run:     syncPic,
 }
 
